@@ -1,5 +1,5 @@
 [package]
-name = "tr-2024-01-01-rust"
+name = "rust-exercism"
 version = "0.1.0"
 edition = "2021"
 
